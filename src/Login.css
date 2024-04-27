@@ -1,0 +1,28 @@
+
+.login_logo{
+    
+    width: 100px;
+    object-fit: contain;
+}
+
+.login_container{
+    
+    border: 1px solid lightgray;
+   border-radius: 10px;
+}
+
+.terms{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.login_button{
+    background-color: #f0c14b;   
+    border-color: #a88734 #9c7e31 #846a29;
+}
+
+.login_registerButton{
+    
+    border-radius: 2px;   
+    border: 1px solid darkgray;
+}
